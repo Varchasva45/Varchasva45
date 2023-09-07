@@ -2,7 +2,7 @@
 
 I am a Web Developer and a Pre-final engineering student with experience in JavaScript frameworks
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Developer+for+the+Web.;Loves+to+Design+Creative+Solutions.;Loves+Open+Source.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Web+Developer.;Loves+to+solve+algorithmic+problems.;.)](https://git.io/typing-svg)
 
 ### 🥇 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Varchasva45&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
