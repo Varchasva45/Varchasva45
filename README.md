@@ -1,6 +1,6 @@
 # Hi there, I'm Varchasva Arora 👋
 
-I am a Web Developer and a Pre-final engineering student with experience in JavaScript frameworks.
+I am a Web Developer and a Pre-final engineering student with experience in JavaScript frameworks
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Developer+for+the+Web.;Loves+to+Design+Creative+Solutions.;Loves+Open+Source.)](https://git.io/typing-svg)
 
