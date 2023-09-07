@@ -5,7 +5,7 @@ I am a Web Developer and a Pre-final engineering student with experience in Java
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Web+Developer.;Love+to+solve+algorithmic+problems.;)](https://git.io/typing-svg)
 
 ### 🥇 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varchasva45&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Varchasva45&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🔧 Technologies & Tools
 
