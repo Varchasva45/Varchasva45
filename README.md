@@ -1,8 +1,8 @@
 # Hi there, I'm Varchasva Arora 👋
 
-Full Stack Web Developer & Pre-Final Year Engineering Studen
+Full stack web developer adept in MERN stack and Next.js, with a knack for solving algorithmic problems.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Love+to+solve+algorithmic+problems;MERN+Stack;TypeScript+,+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&width=435&lines=JavaScript,+TypeScript+Developer;MERN+Stack,+Next.js;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 
 
